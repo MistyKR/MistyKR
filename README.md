@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" width="235" src="./misty-profile-plate.png" alt="Misty profile archive plate" />
+<img align="right" width="205" src="./misty-profile-plate.png" alt="Misty profile archive plate" />
 
 ### ✦ About
 
@@ -15,7 +15,7 @@ I build at the intersection of artificial intelligence, software, and creative e
 
 Currently studying algorithms, intelligent systems, and the mechanisms behind learning, one careful layer at a time.
 
-<br clear="right" />
+<br clear="both" />
 
 ### ✦ Selected Work
 
@@ -27,7 +27,7 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
   <i>A visual reading and composition space for collecting sentences, arranging cards, and turning fragments of thought into something worth keeping.</i>
 </p>
 
-<img align="left" width="235" src="./misty-coordinates-plate.png" alt="Misty current coordinates" />
+<img align="left" width="205" src="./misty-coordinates-plate.png" alt="Misty current coordinates" />
 
 ### ✦ Current Coordinates
 
@@ -35,9 +35,9 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
 - `EXPLORING` Emergent intelligence and autonomous learning
 - `CREATING` Quiet tools where technology meets personal expression
 
-<br clear="left" />
+<br clear="both" />
 
-- ### ✦ Elsewhere
+### ✦ Elsewhere
 
 <p align="center">
   <a href="https://afterlight-q05.pages.dev"><b>AFTERLIGHT</b></a>
