@@ -15,14 +15,15 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
 
 ### ✦ Selected Work
 
-#### Saltlight
+### ✦ Selected Work
 
-> Keep the words that once lit your way.
+<p align="center">
+  <img src="./saltlight-editorial-card.png" width="100%" alt="Saltlight — Keep the words that once lit your way." />
+</p>
 
-A visual reading and composition space for collecting sentences, arranging cards,  
-and turning fragments of thought into something worth keeping.
-
-`WEB` · `ANDROID` · `PRIVATE DEVELOPMENT`
+<p align="center">
+  <i>A visual reading and composition space for collecting sentences, arranging cards, and turning fragments of thought into something worth keeping.</i>
+</p>
 
 ### ✦ Current Coordinates
 
