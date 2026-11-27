@@ -19,12 +19,16 @@ I enjoy turning ideas into things that can be built, experienced, and shared.
 
 Currently learning, experimenting, and building at my own pace.
 
-### ✦ Selected Works
+### ✦ Selected Work
 
-**Saltlight**  
-A visual space for collecting words and composing moments.
+#### Saltlight
 
-`IN DEVELOPMENT`
+> Keep the words that once lit your way.
+
+A visual reading and composition space for collecting sentences, arranging cards,  
+and turning fragments of thought into something worth keeping.
+
+`WEB` · `ANDROID` · `PRIVATE DEVELOPMENT`
 
 ### ✦ Fields of Interest
 
