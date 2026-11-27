@@ -30,12 +30,11 @@ and turning fragments of thought into something worth keeping.
 
 `WEB` · `ANDROID` · `PRIVATE DEVELOPMENT`
 
-### ✦ Fields of Interest
+### ✦ Current Coordinates
 
-- Artificial Intelligence
-- Software Engineering
-- Creative Tools & Applications
-- Human–AI Interaction
+- `STUDYING` Algorithms, data structures, and software foundations
+- `EXPLORING` Emergent intelligence and autonomous learning
+- `CREATING` Quiet tools where technology meets personal expression
 
 ---
 
