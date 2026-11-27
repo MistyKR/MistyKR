@@ -32,8 +32,7 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
 ---
 
 <p align="center">
-  <img src="./misty-emblem.svg" width="100" alt="AFTERLIGHT maker's mark" />
-</p>
+  <img src="./misty-orbit-mark.png" width="110" alt="Misty orbit maker's mark" />
 
 <p align="center">
   <sub>AFTERLIGHT · A maker's mark by Misty</sub>
