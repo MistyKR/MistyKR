@@ -3,7 +3,7 @@
   <img src="./misty-banner.svg" width="100%" alt="Misty — Nocturne Archive" />
 </p>
 
-<h3 align="center">Independent Creator · Developer · AI Enthusiast</h3>
+<h3 align="center">Developer · Independent Creator · Exploring Emergent Intelligence</h3>
 
 <p align="center">
   <i>Curiosity is an endless pursuit.</i>
