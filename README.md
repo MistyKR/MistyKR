@@ -15,8 +15,6 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
 
 ### ✦ Selected Work
 
-### ✦ Selected Work
-
 <p align="center">
   <img src="./saltlight-editorial-card.png" width="100%" alt="Saltlight — Keep the words that once lit your way." />
 </p>
