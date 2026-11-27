@@ -28,8 +28,6 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
   
 </p>
 
-<img align="left" width="30%" src="./misty-coordinates-plate.png" alt="Misty current coordinates" />
-
 ### ✦ Current Coordinates
 
 <img align="left" width="30%" src="./misty-coordinates-plate.png" alt="Misty current coordinates" />
