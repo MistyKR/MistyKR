@@ -13,11 +13,11 @@
 
 ### ✦ About
 
-I'm Misty — a developer and independent creator exploring the intersection of technology, intelligence, and creative expression.
+I'm Misty — a developer and independent creator interested in how intelligence emerges, learns, and becomes autonomous.
 
-I enjoy turning ideas into things that can be built, experienced, and shared.
+I build at the intersection of artificial intelligence, software, and creative expression — turning quiet ideas into things that can be experienced.
 
-Currently learning, experimenting, and building at my own pace.
+Currently studying algorithms, intelligent systems, and the mechanisms behind learning, one careful layer at a time.
 
 ### ✦ Selected Work
 
