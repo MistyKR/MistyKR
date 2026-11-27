@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" width="205" src="./misty-profile-plate.png" alt="Misty profile archive plate" />
+<img align="right" width="30%" src="./misty-profile-plate.png" alt="Misty profile archive plate" />
 
 ### ✦ About
 
@@ -25,9 +25,10 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
 
 <p align="center">
   <i>A visual reading and composition space for collecting sentences, arranging cards, and turning fragments of thought into something worth keeping.</i>
+  
 </p>
 
-<img align="left" width="205" src="./misty-coordinates-plate.png" alt="Misty current coordinates" />
+<img align="left" width="30%" src="./misty-coordinates-plate.png" alt="Misty current coordinates" />
 
 ### ✦ Current Coordinates
 
