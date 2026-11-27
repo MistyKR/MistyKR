@@ -29,10 +29,19 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
 - `EXPLORING` Emergent intelligence and autonomous learning
 - `CREATING` Quiet tools where technology meets personal expression
 
+- ### ✦ Elsewhere
+
+<p align="center">
+  <a href="https://afterlight-q05.pages.dev"><b>AFTERLIGHT</b></a>
+  <br />
+  <sub>Essays, notes, experiments, and fragments from the archive.</sub>
+</p>
+
 ---
 
 <p align="center">
   <img src="./misty-orbit-mark.png" width="110" alt="Misty orbit maker's mark" />
+</p>
 
 <p align="center">
   <sub>AFTERLIGHT · A maker's mark by Misty</sub>
