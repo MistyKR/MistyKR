@@ -32,9 +32,13 @@ Currently studying algorithms, intelligent systems, and the mechanisms behind le
 
 ### ✦ Current Coordinates
 
-- `STUDYING` Algorithms, data structures, and software foundations
-- `EXPLORING` Emergent intelligence and autonomous learning
-- `CREATING` Quiet tools where technology meets personal expression
+<img align="left" width="30%" src="./misty-coordinates-plate.png" alt="Misty current coordinates" />
+
+`STUDYING` Algorithms, data structures, and software foundations  
+<br />
+`EXPLORING` Emergent intelligence and autonomous learning  
+<br />
+`CREATING` Quiet tools where technology meets personal expression
 
 <br clear="both" />
 
